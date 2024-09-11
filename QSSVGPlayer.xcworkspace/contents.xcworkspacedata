@@ -2,9 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:SVGAPlayer.xcodeproj">
+      location = "group:/Users/qsk/Desktop/Study/QSSVGPlayer/QSSVGPlayer.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:QSSVGPlayer.xcodeproj">
    </FileRef>
 </Workspace>
